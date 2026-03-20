@@ -1,0 +1,29 @@
+{
+  "status": "ready_for_push",
+  "project": "TailorBytez | Sandy Epstein Law Landing Page",
+  "deployed_at": "2026-03-20T12:09:45-05:00",
+  "vercel": {
+    "project_name": "tailorbytez-sandy-epstein-law-2026-03-20",
+    "deployment_id": "dpl_H5jrzddVuZrdXcWvdj4m2HMqT6ih",
+    "inspect_url": "https://vercel.com/franksharpe008s-projects/tailorbytez-sandy-epstein-law-2026-03-20/H5jrzddVuZrdXcWvdj4m2HMqT6ih",
+    "deployment_url": "https://tailorbytez-sandy-epstein-law-2026-03-20-2g34hrxbb.vercel.app",
+    "short_url": "https://tailorbytez-sandy-epstein-law-2026.vercel.app"
+  },
+  "github": {
+    "repo_url": "https://github.com/Franksharpe008/tailorbytez-sandy-epstein-law-20260320",
+    "branch": "main",
+    "commit": "pending"
+  },
+  "verification": {
+    "local_http_200": true,
+    "local_section_ids_present": [
+      "home",
+      "practice-areas",
+      "about",
+      "results",
+      "contact"
+    ],
+    "short_url_http_status": 200,
+    "zai_scan_clear": true
+  }
+}
