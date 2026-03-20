@@ -13,7 +13,7 @@
     "repo_url": "https://github.com/Franksharpe008/tailorbytez-sandy-epstein-law-20260320",
     "visibility": "PUBLIC",
     "branch": "main",
-    "commit": "696fad40809d9b8ad77d964429909d664f2c2b98"
+    "deployed_site_commit": "696fad40809d9b8ad77d964429909d664f2c2b98"
   },
   "verification": {
     "local_http_200": true,
@@ -25,6 +25,6 @@
       "contact"
     ],
     "short_url_http_status": 200,
-    "zai_scan_clear": true
+    "restricted_string_scan_clear": true
   }
 }
