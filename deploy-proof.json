@@ -1,5 +1,5 @@
 {
-  "status": "ready_for_push",
+  "status": "complete",
   "project": "TailorBytez | Sandy Epstein Law Landing Page",
   "deployed_at": "2026-03-20T12:09:45-05:00",
   "vercel": {
@@ -11,8 +11,9 @@
   },
   "github": {
     "repo_url": "https://github.com/Franksharpe008/tailorbytez-sandy-epstein-law-20260320",
+    "visibility": "PUBLIC",
     "branch": "main",
-    "commit": "pending"
+    "commit": "696fad40809d9b8ad77d964429909d664f2c2b98"
   },
   "verification": {
     "local_http_200": true,
